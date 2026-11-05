@@ -1,0 +1,22 @@
+{
+    "chart_title": "Broncos Stats 2025",
+    "data_points": [
+        {"Game": 1,  "Points Scored" : 20,  "Points Allowed" : 12, "Opponent"  : "Titans",     "Touchdowns" : 2, "Field Goals" : 2},
+        {"Game": 2,  "Points Scored" : 28,  "Points Allowed" : 29, "Opponent"  : "Colts",      "Touchdowns" : 4, "Field Goals" : 0},
+        {"Game": 3,  "Points Scored" : 20,  "Points Allowed" : 23, "Opponent"  : "Chargers",   "Touchdowns" : 2, "Field Goals" : 2},
+        {"Game": 4,  "Points Scored" : 28,  "Points Allowed" : 3,  "Opponent"  : "Bengals",    "Touchdowns" : 4, "Field Goals" : 0},
+        {"Game": 5,  "Points Scored" : 21,  "Points Allowed" : 17, "Opponent"  : "Eagles",     "Touchdowns" : 2, "Field Goals" : 2},
+        {"Game": 6,  "Points Scored" : 13,  "Points Allowed" : 11, "Opponent"  : "Jets",       "Touchdowns" : 1, "Field Goals" : 2},
+        {"Game": 7,  "Points Scored" : 33,  "Points Allowed" : 32, "Opponent"  : "Giants",     "Touchdowns" : 4, "Field Goals" : 1},
+        {"Game": 8,  "Points Scored" : 44,  "Points Allowed" : 24, "Opponent"  : "Cowboys",    "Touchdowns" : 6, "Field Goals" : 1},
+        {"Game": 9,  "Points Scored" : 18,  "Points Allowed" : 15, "Opponent"  : "Texans",     "Touchdowns" : 2, "Field Goals" : 1},
+        {"Game": 10, "Points Scored" : 10,  "Points Allowed" : 7,  "Opponent"  : "Raiders",    "Touchdowns" : 1, "Field Goals" : 1},
+        {"Game": 11, "Points Scored" : 22,  "Points Allowed" : 19, "Opponent"  : "Chiefs",     "Touchdowns" : 1, "Field Goals" : 5},
+        {"Game": 12, "Points Scored" : 27,  "Points Allowed" : 26, "Opponent"  : "Commanders", "Touchdowns" : 3, "Field Goals" : 2},
+        {"Game": 13, "Points Scored" : 24,  "Points Allowed" : 17, "Opponent"  : "Raiders",    "Touchdowns" : 3, "Field Goals" : 1},
+        {"Game": 14, "Points Scored" : 34,  "Points Allowed" : 26, "Opponent"  : "Packers",    "Touchdowns" : 5, "Field Goals" : 0},
+        {"Game": 15, "Points Scored" : 20,  "Points Allowed" : 34, "Opponent"  : "Jaguars",    "Touchdowns" : 2, "Field Goals" : 2},
+        {"Game": 16, "Points Scored" : 20,  "Points Allowed" : 13, "Opponent"  : "Chiefs",     "Touchdowns" : 2, "Field Goals" : 2},
+        {"Game": 17, "Points Scored" : 19,  "Points Allowed" : 3,  "Opponent"  : "Chargers",   "Touchdowns" : 1, "Field Goals" : 4}
+    ]
+}
